@@ -8,12 +8,14 @@ This document describes the rules to follow hen it comes to organize files on my
     - <main-feature>/
         - <secondary-feature>/
             - SecondaryFeature.tsx
+            - SecondaryFeature.module.css
             - utils.ts
             - use-cases.ts
             - constants.ts
             - types.ts
             - hooks.ts
         - MainFeature.tsx
+        - MainFeature.module.css
         - utils.ts
         - use-cases.ts
         - constants.ts
@@ -26,3 +28,4 @@ This document describes the rules to follow hen it comes to organize files on my
 - To understand how the constants files have to be implemented (in the example, "constants.ts"), refer to the [constants](/files/constants.md) document.
 - To understand how the types files have to be implemented (in the example, "types.ts"), refer to the [types](/files/types.md) document.
 - To understand how the hooks files have to be implemented (in the example, "hooks.ts"), refer to the [hooks](/files/hooks.md) document.
+- To understand how the CSS files have to be implemented (in the example, "MainFeature.module.css" and "SecondaryFeature.module.css"), refer to the [styles](/files/styles.md) document.
