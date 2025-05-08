@@ -1,0 +1,1 @@
+- The import distribution should follow this rule: first, global imports from external libraries, then imports from other modules of your application and finally local imports of your module

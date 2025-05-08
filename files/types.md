@@ -1,0 +1,1 @@
+- File will contain all the Typescript types needed for the module to work.

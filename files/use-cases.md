@@ -1,0 +1,3 @@
+- File will contain the business logic needed by the components.
+- No React-based library is allowed on this file
+- Ideally, there will be no global dependencies in this file, although there may be some exceptions for certain use cases where you need to perform certain specific tasks. For example, manipulating dates, utility libraries like "lodash", etc.

@@ -1,0 +1,3 @@
+- This file will contain all the React hooks that are required by the module
+- Naming convention will follow React standards
+- File can contain more than one hook
